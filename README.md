@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Pooja Mistry!
 
-##<!--
-**poojamistry30/poojamistry30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **A Passionate Data Analyst** 
 
 Here are some ideas to get you started:
 
