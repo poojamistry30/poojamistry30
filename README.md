@@ -1,4 +1,4 @@
-### Hi 👋, I'm Pooja Mistry!
+# Hi 👋, I'm Pooja Mistry!
 
 ## **A Passionate Data Analyst** 
 
